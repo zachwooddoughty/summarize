@@ -1,0 +1,10 @@
+Reading Between the Lines of Redacted NSA Documents 
+
+
+
+Sometimes the most interesting part of a classified document is what is blacked out. That’s where you can tell, by context, what kind of information is still considered too secret for public consumption.
+Responding to the revelations from NSA whistleblower Edward Snowden, the U.S. government has provided unprecedented transparency about the nation’s spying apparatus—all in a bid to quell public dissent—by releasing thousands of pages of once-classified documents. 
+The government even has released formerly secret documents criticizing itself for breaching Americans’ privacy rights while also divulging the once-secret legal basis for its bulk telephone metadata collection program. But many documents contain redactions—or black marks—in key places.
+As of January, the government said it has released 2,700 pages of once-classified documents, including 44 Foreign Intelligence Surveillance Court opinions and orders, 11 government filings to that court, 24 once-classified documents provided to Congress, and 20 other reports that include training slides and other materials. Clearly, the documents shed light on the NSA, although plenty of secrets remain secret.
+But even when the government divulges its secrets, it rarely provides the full picture.
+In that vein, WIRED is publishing a gallery highlighting the redaction of important information about NSA snooping.

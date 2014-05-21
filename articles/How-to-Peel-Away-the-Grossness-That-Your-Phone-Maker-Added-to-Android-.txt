@@ -1,0 +1,14 @@
+How to Peel Away the Grossness That Your Phone Maker Added to Android 
+
+
+It’s an all too frequent dilemma. You get one of the best high-end Android phones out there–maybe it’s a Galaxy S5, or maybe it’s an HTC One–and the hardware is impeccable. But the software experience is all mucked up from carrier add-ons and skinning. While you can root your phone to get the true stock Android phone experience you’d get from a Nexus device, you can actually get a similar stock experience without rooting.
+The easiest way is by downloading a few Google-made apps and making them your defaults. Google Calendar, Google Keyboard, and Google Hangouts are the calendar, typing, and chatting experiences you’d get on stock Android, and they’re available for download right from Google Play. Alternatively, you can download the APK for these and other stock KitKat features here. 
+If you want to make sure you don’t double up on calendar notifications, go to the built-in calendar’s settings and switch off event notifications. 
+If you want the Google Now launcher you’d get from stock Android, you can’t download it from Google Play, but you can download the APK yourself. The Google Now launcher brings Google’s titular predictive service to your homescreen and neatly arranges your icons and widgets.  
+It should work on a number of recent handsets, but not if you’re phone is in low power mode (it will reset and erase your homescreen). And if there are any handset maker-specific widgets on the home screen, this launcher will remove them.
+You can also try a third party launcher like Apex or Nova, which provide a more Google-like experience, but are downloadable from the Google Play store. 
+If you want to get really authentic, you can tweak your app icons and wallpapers so they also resemble a stock Android experience. Nine default KitKat wallpapers are available for download here, while Jelly Bean wallpapers can be found here. 
+You can also download icon packs like this one to work with the custom launcher you already downloaded. Depending on how closely (or differently) you want your icons to appear, you can also look through a variety of different icon pack options that Cult of Android kindly rounded up here.
+There are a few experiences you won’t be able to tweak without rooting your handset, unfortunately. The dialer, People, Camera, and Gallery apps are still stock Android-only territory. 
+On the plus side, there are other things your non-stock Android handset probably does better than Google’s pure version. The camera is one example–manufacturers like HTC and Samsung include a number of customizations and features that Google doesn’t. 
+And if you make any of these customizations and decide you don’t like the experience after all, it’s just as easy to uninstall them, or download another alternative. 

@@ -1,0 +1,17 @@
+Switch From iOS to Android (Or Vice Versa) in 4 Easy Steps 
+
+You find iOS/Android annoying, and all your friends say Android/iOS is, like, way better. So you’ve finally decided it’s time to switch phones. Let’s do it.
+iOS → Android
+Android uses your Google account’s contacts and calendars, so sync your iPhone to Google. Settings &gt; Mail, Contacts, Calendars &gt; Add Account. Enter your Google ID. Toggle the switches for Contacts and Calendars to On.
+Android → iOS
+Everything on your Android phone should already be stored in your Google account. To transfer your Google contacts and calendars to your iPhone, follow the sync instructions in the other section—it works both ways.
+Two platforms, One Solution
+These days, most apps exist on both Android and iOS. For the few that don’t, a quick search will usually lead you to some decent replacements. Download iOS apps from the App Store, and get your Android apps from Google Play.
+iOS → Android
+Download Google Music Manager to your computer—it lets you upload up to 20,000 songs to the cloud for free. Then use the Google Play Music app on your Android phone to listen to all of your uploaded MP3s from anywhere.
+Android → iOS
+Is there music on your computer that you also want on your phone? Let iTunes do the dirty work. Connect your iPhone to your computer, go into the iPhone’s Music tab in iTunes, and choose what you want to sync. Hit Sync.
+iOS → Android
+Transfer your iPhone photos to your computer and web-upload them to your Google+ account. Then set up the Google+ app on your phone so that every shot you take will be backed up to the web automatically.
+Android → iOS
+Using the Google+ app on your Android phone, upload all the photos on your handset to Google’s servers. Then use the Google+ app on iOS to view or download your pictures. Or just continue using the app—it’s great.

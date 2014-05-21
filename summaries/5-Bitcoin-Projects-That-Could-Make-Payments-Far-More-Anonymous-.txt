@@ -1,0 +1,5 @@
+This past January, New York financial regulator Benjamin Lawsky called for a crackdown on software that anonymizes transactions in the online digital currency, saying it will merely help criminals evade law enforcement.
+And one of the currency’s biggest supporters, venture capitalist Marc Andreessen, believes bitcoin will truly thrive only after it shrugs off anonymity protections.
+But some parts of the bitcoin community have other plans in mind.
+Even as regulators work to tie new identity restrictions to bitcoin businesses, a collection of projects is moving in the opposite direction, trying to preserve or even upgrade bitcoin’s properties as an ultra-private, untraceable payment system as anonymous as handing off a briefcase of unmarked bills.
+Last week saw the launch of Dark Wallet, a piece of bitcoin software that represents perhaps the most radical move yet to evade tracking of who spends and receives bitcoin.

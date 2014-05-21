@@ -1,0 +1,32 @@
+Dazed and Confused 
+
+
+
+p.wiredtired {
+    font-family: "periodico-text-1", "periodico-text-2", helvetica, arial, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: italic;
+    background-color: #FFF87F;
+    padding: 9px 5px 8px 5px;
+}
+
+UNDERWATER INSTAGRAM BABY! Fingerprint sensor lets you unlock the phone flawlessly almost every time. Excellent camera took gorgeous shots, with a fast shutter and great focus. Removable back means you can pack an extra battery–but you probably won’t need it thanks to great battery performance.
+
+Baffling interface and default set of applications. Flimsy dimpled plastic back feels like a cheap practice golf ball. Why do you keep giving me two apps when one will do?
+I’ve been struggling to find something original to say about the Samsung Galaxy S5. The phone’s already been panned by many reviewers, and I didn’t particularly like it either. After using it for about two weeks, I still have no idea what the hell I’m doing most of the time. But, honestly, the biggest challenge has been reconciling the frequently poor user experience with the phone’s legitimately great hardware. 
+I really do like some of its features. The camera is quite nice for one thing — one of the best I’ve used on any Android smartphone. The phone’s fingerprint sensor has worked flawlessly too. Oh, and did I mention it’s water-resistant? But all of this torpedoed by a confusing mess of extraneous software.
+OK, backing up. Samsung’s Galaxy S5 is the company’s new flagship Android handset. It’s spec-heavy, and feature-rich, with innovative additions like pulse tracking. It does just about everything an iPhone does–you can use your fingerprint to unlock it, for example. And it has some truly wonderful abilities–you can drop it in your toilet without ruining it. I dunked my review unit in a sink full of water and stared down into the pool at its glowing screen, shimmering up at me. It felt significant. But it’s not a great phone.
+There’s a consensus that’s been kicking around the tech press for a couple of years now that says smartphones have become kind of boring. I’ve bought into that. I think it’s both true, and also not necessarily a bad thing. Your TV is boring, and you probably love your TV. Sometimes, one handset will do something really interesting (the Moto X, which is always listening, always judging). But for the most part, phones are getting a little bit better with every iteration and that’s about it. That’s particularly true of flagship models, and it trickles down to the lower-end ones as well.
+Because these phones are all kind of similarly equipped now, it becomes harder and harder for manufacturers to have a breakout device. That means companies sometimes resort to software gimmicks to get your attention.
+Samsung reached a ridiculous summit last year with the Galaxy S4, which tried to get us to roll our eyes at our phones (which we did! but not for the reasons it wanted us to) and wave our hands at them to control them. With the S5, the company has, thankfully, climbed down a few steps. But it hasn’t truly retreated.
+Samsung basically turned a lot of things off by default (like Smart Pause, a feature that will automatically pause video when you look away from the screen), but left you the ability to turn them back on. Simply put, it didn’t have the courage to remove features nobody needed. And as a result, the S5 is still is a mess of interface elements you will never use.
+In fact, the phone is flat out confusing. It’s a bus full of professional wrestlers driven full speed into the feather boa section of an art supply store. It is a dreamcatcher full of crystals.
+One of the big apps Samsung promotes is S-Health. I couldn’t make heads or tails of this. I’m already wearing the Gear Fit watch, and despite, you know, walking around and stuff it shows me that I’ve taken zero steps. I sync the S5 with the Gear Fit after going for a run, and it shows me that I’ve never exercised. I use the heart rate measurement tool to take my pulse, via the sensor on the back of the phone, and see that it is 59 beats per minute. I see that my last measurement was 57 beats per minute. What exactly do I do with this?
+One of the default onscreen elements is something called GeoNews. I activated it, and it tells me, day in and day out, that my “region is OK.” Until one day, when it told me that there was a small earthquake several hundred miles away. It sent this alert to the Gear Fit on my wrist. The Gear Fit vibrated. I dismissed the alert. I looked at the phone. I looked again. I didn’t understand.
+An entire default home screen is devoted to Galaxy Gifts and Galaxy Essentials. Tap to get started, it commands. So I did. The Gifts it recommended was a list of subsidized apps, with either free trial versions or store credits. Among them Evernote, The Wall Street Journal, Cut the Rope, and Amazon Kindle. A button prominently suggested that I “Download All.” So I did. An error message popped up, informing me “This application will not work on your device(8002)” What is an 8002? How do I use an 8002? Why won’t the thing you told me to download work?
+I hit the OK button. The message appeared again. I hit OK again. I moved on.
+Even basic things didn’t fail to frustrate. When I set up the phone, I entered my Google account information. Later, I hit the email button above the home row, hoping to read my Gmail. Instead, I was prompted to set up my email account, which I had already done. I declined, and went to the Gmail app instead.
+There are those who will say you just have to get used to Samsung’s UI. But that’s wrong. A good UI is something you take to naturally. Instead, Samsung has fallen into a common design trap: thinking that because it can do stuff, it should. This phone is designed by hubris.
+Across the bottom of the bezel there are three buttons that will be familiar to any Android user. One for home (which, blessedly, is a physical button), another for back, and a third for all apps. But wait. What’s this? The buttons for back and all apps are reversed from their normal positions in KitKat. Samsung told WIRED that this was because its button placement pre-dates Google’s, and that people have gotten used to the way it does things. Fair enough. But maybe they shouldn’t have to.
+I hope there’s a Google Play edition of this phone on the way, because I expect I would quite like it. In fact, I think it would probably be great.

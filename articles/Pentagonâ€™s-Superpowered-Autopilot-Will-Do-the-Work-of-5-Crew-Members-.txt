@@ -1,0 +1,11 @@
+Pentagon’s Superpowered Autopilot Will Do the Work of 5 Crew Members 
+
+
+Some think that the Defense Department couldn’t possibly reduce its forces as much as it claims it will. After all, who would fly the planes?
+Now DARPA has an answer. The Pentagon’s research arm is developing a sophisticated, drop-in autopilot that can replace as many as five crew members of a military aircraft, and turn the pilot into a high-level “mission supervisor” issuing commands through a touch screen.
+The Aircrew Labor In-Cockpit Automation System (ALIAS) program is a tailorable, removable kit that will assist in all phases of aircraft flight — even dealing with emergency system failures in-flight. The  agency says the system will reduce pilot workload, augment mission performance and improve aircraft safety.
+“Our goal is to design and develop a full-time automated assistant that could be rapidly adapted to help operate diverse aircraft through an easy-to-use operator interface,” said Daniel Patt, DARPA program manager, in a statement. “These capabilities could help transform the role of pilot from a systems operator to a mission supervisor directing intermeshed, trusted, reliable systems at a high level.”
+DARPA says it plans to build on the advances in autopilot technology over the past 50 years and develop a highly adaptable automated system that can move from aircraft to aircraft and execute missions from takeoff to landing — all from a simple touch and voice recognition interface.
+Allowing ALIAS to handle lower-level flight maintenance tasks would free human operators to focus on mission-level tasks, according to DARPA.
+In outlining the Pentagon’s budget in February, Secretary of Defense Chuck Hagel expressed his intent to shrink the department’s budget to pre-World War II levels by reducing personnel and expensive equipment costs in preference for cost-saving technology.
+“We are repositioning to focus on the strategic challenges and opportunities that will define our future; new technologies, new centers of power, and a world that is growing more volatile, more unpredictable, and in some instances more threatening to the United States,” said Hagel.

@@ -1,0 +1,24 @@
+Wicked Game 
+
+
+
+p.wiredtired {
+    font-family: "periodico-text-1", "periodico-text-2", helvetica, arial, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: italic;
+    background-color: #FFF87F;
+    padding: 9px 5px 8px 5px;
+}
+
+Seems expensive, but it’s actually a decent deal in the highest strata of gaming laptops. Great performance, with minimal trouble along the way.
+
+Not quite on the bleeding edge, but hey, you can always upgrade. One bad drop feels like it will demolish this thing.
+Let’s put aside the fact that this computer is named after a planet that exploded, killing all* its inhabitants. With this behemoth, Digital Storm, maker of unapologetically performance-focused gaming laptops, isn’t even trying to compete on aesthetics any more. While the Krypton has dialed back some of the design lunacy you see on other gaming rigs, it still is decidedly unsubtle. Sure, there’s a red, winged fireball underlying the touchpad and some wacky blue lighting effects that throb in time with the audio. But this is a PC for funtime, so you can’t hold the garish bits against it.
+Functionally, the Krypton is about the same as the AVADirect Clevo P375SM I reviewed late last year. Cosmetically the two are very similar, and under the hood they have a lot in common. Both machines offer 17.3-inch (non-touch) screens with 1920 x 1080 resolution, feature a Blu-ray optical drive and the latest Core i7 CPU, and measure well over 5 centimeters thick. (At a mere 55mm of girth, the Krypton “wins” the battle of the belt by a scant 2mm.) There are more ports here than you’d likely find use for: Four USB (two 3.0, one eSATA combo, one powered), SD card reader, Ethernet, HDMI, two DisplayPort jacks (one Mini), and a gaggle of audio input/outputs. There’s even a mini FireWire connector, a rare blast from the past.
+Other specs are similar to AVA’s: The Krypton features 16GB of RAM to the AVADirect’s 32GB, a single 250GB SSD to the AVADirect’s dual 128GB models (both feature a 750GB traditional disk as well), and a single Nvidia GeForce GTX 880M to the AVADirect’s dual GTX 780M video cards. Of course, most of these specs are configurable on both machines, so it would be silly to read too much into what amount to relatively minor configuration differences.
+Unsurprisingly, both machines offer bleeding-edge gaming performance, pulling well over 100fps on most recently-released games using typical, mobile-friendly settings. But even with pushed-to-the-max settings at full resolution, I was able to manage over 150fps on S.T.A.L.K.E.R. Call of Pripyat, one of my standard benchmark titles. In a nutshell, this rig didn’t give me any trouble no matter what I threw at it.
+Sure, you’ll tweak better performance out of a dual-graphics card machine, but the frame rate differences are negligible and, more importantly, not noticeable to the eye. What is clearly noticeable is the pricing: At $2,251, it’s over $1,200 cheaper than the AVADirect offering, a substantial savings. Of course, this business moves pretty fast: That AVADirect system has already been discontinued, just as six months from now the Krypton will surely be off the market as well.
+But for now, this is a solid—if largely nondescript—choice for a high-test gaming rig. The screen isn’t as bright or as crisp as it could be, the audio (while plenty loud) is nothing special, and the largely plastic chassis won’t inspire visions of ruggedness. The fan is droning but not as loud as other machines in this category, and at “just” 8.7 pounds, it’s actually lighter than many a gaming laptop out there. It also mustered over 2 ¼ hours of battery life (testing with DVD playback), which is also above average for this category. The keyboard won’t inspire any novellas, but the soft-touch plastic on the palm rest is a nice touch.
+Bottom line: Gamers could spend more, and do worse.
+* Don’t even say it.

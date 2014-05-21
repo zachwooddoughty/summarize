@@ -1,0 +1,8 @@
+Watch: High-Tech Fabric Changes Color When You Touch It 
+
+
+The internet of things is usually discussed in terms of thermostats, light bulbs, and kitchen appliances. Embedding electronics into comforters, clothes, and wall-hangings, however, could yield far more poetic results.
+Chromosonic, by Hungarian designer Judit Eszter Karpati, is an experimental electronic textile that can change color and pattern in response to touch and sound. The magic comes courtesy of temperature-sensitive dye. Audio files, processed through an Arduino, heat up nichrome wires woven into the fabric, making its pattern pulse in time with whatever’s playing. In a sense, the textile becomes a material visualization of the tunes.
+
+In addition to achieving a striking visual effect, the project occupies some rich conceptual territory. Karpati’s creation lands somewhere between the dumb stuff we have in our homes today and the wave of “smart” stuff we’re so often told is around the corner. It’s more than a piece of decor but less than another screen–a reminder that technology can be used to change our habitats in ways that have nothing to do with utility or efficiency. 
+Of course, it’s not hard to make the leap to other sorts of applications, like outfits that transform moment to moment with the aid of technology. Karpati’s temperature-changing rig might not necessarily be the right fit here, but it’s certainly easy to see the effect carrying over. Think of it is as Hypercolor 2.0, with garments not just fading in the sunlight but subtly cycling through patterns in response to your environment and the data streams swirling through it. Imagine a jacket that doesn’t just match your pants, but your mood and your music, too.

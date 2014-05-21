@@ -1,0 +1,14 @@
+This Game’s Levels Went Missing—So Fans Rebuilt Them From Scratch 
+
+
+During the long development process of a game, movie, or other media, it’s not uncommon for content to be redesigned, reworked or scrapped entirely. But while it’s common to see deleted movie scenes via DVD extras or a director’s cut edition, it’s not often we get the chance to experience videogame content–sometimes entire levels–that didn’t make the final cut.
+Thanks to modders, sometimes we do.
+S.T.A.L.K.E.R.: Shadows of Chernobyl is a game that changed a great deal over its long and storied development (WIRED awarded it ninth place on our vaporware awards way back in 2006). 
+When it was finally released in 2007, S.T.A.L.K.E.R. was missing much of the content that developer GSC Game World originally showed in 2002. And while the official release, “a first-person shooter slash survival horror game set in the irradiated wasteland known as ‘The Zone,’” was well received by critics, many fans believed that the original alpha levels were superior to those found in the box. 
+Forums lit up with discussion: some levels had been redesigned, made smaller and simpler; others had been cut entirely. But some fans weren’t content with mere discussion and decided to take matters into their own hands. 
+Drawing from screenshots, gameplay videos, and a leaked pre-alpha version of the game from 2003, modding collective Dezowave set out to recreate the S.T.A.L.K.E.R. that could have been. The main goal was to recapture the “atmosphere” of the game’s early version, reintroducing not only removed levels but features such as weapon shake and cars with accessible doors. 
+The project, officially known as S.T.A.L.K.E.R.: Lost Alpha, was finally released last week.
+Lost Alpha, like the work from which it was derived, also changed a great deal over its development. In 2009, GSC released an early S.T.A.L.K.E.R. build from 2004, prompting a slew of similar “rebuild the lost levels” mods. Desowave reacted by shifting the focus of Lost Alpha.
+“Lost Alpha could have been released in [the summer of 2009] if we only aimed to do a remake,” Desowave member Dezodar said in 2013. “But we wanted more, something unique, which differed from the majority.”
+As such, Lost Alpha is not just a chance to experience the levels cut from the original, but also a fully realized standalone game, complete with storyline, side quests, NPC dialogue, and more. Of course, as is expected with a fan-made project of this scale, bugs and crashes are not uncommon, but a number of solutions to common problems have already been found. 
+Even better, the game (which is completely free) is a standalone release, meaning it doesn’t require S.T.A.L.K.E.R.: Shadows of Chernobyl to play. Just download, install, and you’re good to go.

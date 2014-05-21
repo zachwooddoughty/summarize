@@ -1,0 +1,28 @@
+Air Space 
+
+
+
+p.wiredtired {
+    font-family: "periodico-text-1", "periodico-text-2", helvetica, arial, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: italic;
+    background-color: #FFF87F;
+    padding: 9px 5px 8px 5px;
+}
+
+Dual tuners. Supports multiple simultaneous connections. Can stream outside your home network. Doesn’t need your TV, so it doesn’t need an HDMI port.
+
+Monthly fee, arrrgh! Antenna and storage not included. Very slow at starting live channels. Clunky Roku interface. Can’t download recordings for offline viewing.
+The VCR may be dead, but the need to record and time-shift local programming is alive and well–especially for cord-cutters who want to dispense with pricey cable TV service but not DVR awesomeness.
+Channel Master’s recent DVR+ answered that call with a decidedly old-school black box that plugs into your TV. But the Nuvyyo Tablo feels more like an over-the-air DVR for the 21st century. It’s kind of like a home version of Aereo, the Web-based local-channel DVR service, but with BYO antenna and storage.
+At roughly twice the width of a Roku box, the all-black Tablo sports four rear ports: Ethernet, antenna, and two USB. Where does the HDMI cable go? Nowhere. The box doesn’t plug directly into your TV. It’s a set-top without the set, a standalone DVR you tuck away in whatever corner of the house gets the best OTA reception with whatever antenna you plug in. (I tested it with an unpowered Mohu Leaf.)
+There’s no remote, either. To watch TV, browse the channel guide, and set up recordings, you use a smartphone, tablet, Roku box, or desktop browser. These experiences vary, but overall Tablo is easy to use and good at what it does. It’s also a few taps shy of perfection.
+To set up, just connect an antenna and plug in some USB storage. Ethernet is optional; unlike Channel Master’s DVR+, the Tablo has Wi-Fi built in. However, Nuvvyo charges a monthly fee for the channel guide, a shot in the heart for cord-cutters. After the first month, a subscription will run you $5, or you can pay $50 for a year or $150 for lifetime service.
+After scanning your available channels, Tablo sorts your local programming into categories like Prime Time, Movies, and Sports, each with attractive thumbnail-enhanced listings. You can also peruse a live-TV channel guide and navigate your current and scheduled recordings.
+Tablo works best with a tablet, with dedicated Android and iPad apps serving up a slick, intuitive interface. A similar interface carries over to the browser version, though it feels a little slow and clunky on a smartphone. The Roku channel is the weak link: It works, but can’t match the elegance of its tap-powered counterparts.
+The box includes two tuners (a four-tuner model will ship soon), meaning you can record two shows while watching a third. Despite the presence of two USB ports, you’re currently limited to one connected hard drive. A 500GB drive would let you record approximately 625 hours in SD, 250 hours at 720p, and 125 hours at 1080p.
+Although you can’t download recordings to a mobile device for offline viewing, the Tablo does allow streaming outside your home network, effectively inching it into Slingbox territory. You could watch a live or recorded ballgame from the road, something even Aereo doesn’t allow. What’s more, the hardware supports multiple simultaneous connections, so the kids can stream PBS on their iPad while you watch a Tigers game on your laptop.
+Alas, watching live TV can be aggravating, at least for those who like to channel-hop. To flip around the dial, you have to exit whatever you’re viewing, return to the program guide, then choose another channel. Worse still, it can take 20-30 seconds for a live stream to start. It feels like forever.
+Thankfully, recorded shows tend to queue up much quicker, and in all my tests of both live and recorded TV, Tablo proved its A/V mettle with smooth, sharp images and perfectly synced audio. Your mileage may vary depending on connection quality, of course, but whether you’re slinging across Wi-Fi or 4G, you should be pleased with the experience.
+Although the monthly fee is hard to swallow, for many a cord-cutter, the Tablo could be the final piece of the puzzle.

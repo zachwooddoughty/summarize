@@ -1,0 +1,13 @@
+Scale-Free Mathematics in Matzah? 
+
+
+Tonight is Passover. And the most well-known food of the holiday is matzah, the cracker-like flatbread. Within this food we can find some complexity science goodness.
+At one part of the Seder meal, we break one piece of matzah into half. Now, for anyone who has actually tried this, one recognizes the great difficulty in doing so. Matzah does not break evenly. It too often breaks along fracture points that cause a piece of matzah to break into small pieces, large pieces, and everything in between. If you’re familiar with the principle of crackling noise and universality in physics, this should sound familiar.
+
+For example, take the canonical example from percolation theory:
+Percolation theory is the study of the connectivity of networks. If you take a piece of paper and punch small holes in it at random positions, it will remain connected if the density of holes is small. If you punch so many holes that most of the paper has been punched away, the paper will fall apart into small clusters.
+There is a phase transition in percolation, where the paper first falls apart. Let p be the probability that a given spot in the paper has been punched away. There is a critical probability p_c below which the paper is still connected from top to bottom, and above which the paper has fallen into small pieces (say, if it is being held along the top edge).
+At that critical value, below which everything is connected and above which the paper is in small pieces, you often get pieces of all sizes. Essentially, there is no scale—it’s scale free.
+And perhaps that’s what’s happening with matzah: a piece of matzah is in a carefully tuned critical state, allowing it to crack into pieces of all sizes. Further research and discussion is necessary, of course, and are both fitting topics for a Seder discussion.
+Happy Passover!
+Top image:RomAlmog/Flickr/CC

@@ -1,0 +1,13 @@
+Watch an Epic Trailer for the First Film Made for Oculus VR 
+
+Note: The embed below is experiencing heavy traffic, so it may take a few moments to load. Trust us, your patience will be rewarded.
+
+
+At this point, the potential for the Oculus Rift and the virtual reality it promises is almost limitless. And within that Wild West, one of the most promising non-videogame territories is the world of cinema. How films will be made for Oculus VR headsets and what they’ll look like is still a mystery—but now there’s an interactive trailer that gives the first real, if small, glimpse into what the Oculus-enabled future could look like. 
+Made by Condition One, a Bay Area startup dedicated to making films for Oculus Rift, this trailer is for their initial Oculus offering Zero Point. Directed by Academy Award nominee Danfung Dennis, Zero Point is ostensibly a collection of profiles of VR pioneers, but really it’s an early step into what 3-D, 360-degree filmmaking could look like. 
+In a statement, Dennis noted that it’s no longer a question of whether we’ll get virtual reality, just a matter of when, “and when it does emerge, it will be a major platform shift in computing with the potential to fundamentally transform entertainment and communication.” It will also have an impact on how we document the world and present it to audiences. 
+“With Zero Point, we wanted to showcase the profound importance of virtual reality by placing viewers in unique scenarios that they otherwise might not find themselves in,” Dennis says.
+In an actual Oculus Rift set-up, a person “moves” around the virtual space by actually turning their head or moving via game controller or mouse. With Condition One’s new trailer (above, make sure WebGL is enabled to view it), viewers have a simplified sense of that experience. Want to change your point-of-view? Just click and drag using your mouse. Want to see more of that view from space? Hold down and slide on your trackpad to do that.
+Zero Point will be made available to those with Oculus Rift developer kits later this year. Check out an old-school trailer for the film below, then go to Condition One’s site for a more immersive experience. 
+ 
+Zero Point Official Trailer from Condition One on Vimeo.

@@ -1,0 +1,7 @@
+Crazy Video Trick Makes You King of Your Own Tiny Planet 
+
+
+Maybe you’ve seen polar panoramas, those super wide angle photographs that turn everyday scenes into funky, tiny planets. Jonas Ginter, a German journalist and photographer, has spent the last two years trying to figure out how to achieve the same effect with video. He finally cracked it, and it’s awesome.
+Ginter says he’s been kicking around the idea of 360-degree video for over two years. First he tried strapping his camera to a turntable and snapping thousands of photographs. Then he experimented with all sorts of mirror-aided optical trickery. Eventually, he realized the only way to truly get 360-degree video was by capturing the image in one take. That meant multiple cameras. Six, in fact.
+The final setup uses half a dozen GoPro cameras, all latched into a cute little image-capturing cube with the help of a special 3-D printed holder. The camera array’s overlapping images cover 360 degrees horizontally and 180 vertically, which Ginter then stitches into the clips you see above. 
+It’s a wild update to the old school fish-eye effect. Someone tell Busta Rhymes it’s time for his big comeback video.
