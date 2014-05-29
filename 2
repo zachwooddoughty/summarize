@@ -1,0 +1,56 @@
+from tokenization import tokenize
+from featureextraction import FeatureExtractor
+import sys, os
+sys.path.append("../pybrain/")
+from pybrain.datasets import SupervisedDataSet
+import cPickle
+
+def build_dataset():
+    article_dir = "articles/"
+    done_articles_file = "nn_trained_articles.pkl"
+    dataset_file = "nn_dataset.pkl"
+
+    if os.path.isfile(dataset_file):
+        with open(dataset_file) as f:
+            dataset = cPickle.load(f, "rb")
+    else:
+        dataset = SupervisedDataSet(len(features), 1)
+
+    if os.path.isfile(done_articles_file):
+        with open(done_articles_file) as f:
+            done_articles = cPickle.load(f, "rb")
+    else:
+        done_articles = {}
+
+    features = FeatureExtractor.get_all_feature_function_names(include_nested=True)
+    
+    for file_name in os.listdir(articles_dir):
+        print "\n\n"
+        print "---"*10
+        decision = raw_input("Do another article? [y/n] ")
+        if decision[0].lower() != "y":
+            break
+
+        # Don't re-classify articles we've already seen
+        if file_name in done_articles:
+            continue
+
+        with open("articles/" + file_name) as article:
+            text = ""
+            for line in article:
+                text += line
+            for sentence in tokenize(text, "sentence", return_spans=False)[:10]:
+                extractor = FeatureExtractor(sentence)
+                vectors = extractor.get_feature_vectors(features, "sentence")[0]
+                print sentence
+                value = [int(raw_input("1 if bad, 0 if good "))]
+                dataset.appendLinked(vectors, value)
+
+    with open(dataset_file, "wb") as f:
+        cPickle.dump(dataset, f)
+
+def main():
+    pass
+
+if __name__ == "__main__":
+    main()

@@ -36,7 +36,7 @@ class TFIDF:
                         self.n = len(current_doclist)
                         return
         
-
+        # If we don't load a pickle, build the corpus from articles/ dir
         num_docs = 0.0
         for file_name in os.listdir('articles/'):
             num_docs += 1
