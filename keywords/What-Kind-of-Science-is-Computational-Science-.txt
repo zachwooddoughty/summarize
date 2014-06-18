@@ -1,0 +1,1 @@
+model, num, method, solv, analys, Â, comput, equ, agr, dat, triv, â€“, sci, nee, mayb

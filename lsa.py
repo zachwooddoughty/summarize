@@ -12,6 +12,60 @@ class LSA:
         self.TF = TFIDF()
         self.articles_dir = "articles/"
         self.summaries_dir = "summaries/"
+        self.keywords_dir = "keywords/"
+
+    def keywords(self, filename, num_topics=5, keywords_per_topic=3):
+        text = ""
+        with open(filename) as f:
+            for line in f:
+                text += line
+
+        words = tokenize(text, "word", return_spans=False)
+        sentences = tokenize(text, "sentence", return_spans=False)
+
+        wc = {}
+        clean_sentences = []
+        for sent in sentences:
+            clean_sent = {}
+            for word in tokenize(sent, "word", return_spans=False):
+                word = self.TF.clean(word)
+                clean_sent[word] = 1
+                wc[word] = wc.get(word, 0) + 1 
+            clean_sentences.append(clean_sent)
+
+        matrix = []
+        for word in wc.keys():
+            row = []
+            for sent in clean_sentences:
+                if word in sent:
+                    row.append(self.TF.weight(word, wc[word]))
+                else:
+                    row.append(0)
+            matrix.append(row)
+
+        matrix = numpy.matrix(matrix)
+        U, s, Vh = scipy.linalg.svd(matrix, full_matrices=False)
+
+        D = s * Vh
+
+        keywords = []
+
+        for topic in range(num_topics):
+            try:
+                words = sorted(enumerate([u for u in U[:,topic]]), key = lambda x: x[1])
+            except IndexError:
+                print "Problem indexing numpy array for", filename, "on topic", topic
+                continue
+            added = 0
+            word_index = 0
+            while added < keywords_per_topic and word_index < len(words):
+                #print "Looking at", words[word_index], wc.keys()[words[word_index][0]]
+                if wc.keys()[words[word_index][0]] not in keywords:
+                    keywords.append(wc.keys()[words[word_index][0]])
+                    added += 1
+                word_index += 1
+
+        return ", ".join(keywords)
 
     def summarize(self, filename):
         text = ""
@@ -87,12 +141,13 @@ class LSA:
 
 def main():
     lsa = LSA()
-    for filename in os.listdir(lsa.articles_dir)[:10]:
-        with open(lsa.summaries_dir + filename, "w") as outfile:
-            summary = lsa.summarize(lsa.articles_dir + filename)
-            outfile.write(summary)
-
+    for filename in os.listdir(lsa.articles_dir):
+        with open(lsa.keywords_dir + filename, "w") as outfile:
+        #with open(lsa.summaries_dir + filename, "w") as outfile:
+            #summary = lsa.summarize(lsa.articles_dir + filename)
+            #outfile.write(summary)
+            keywords = lsa.keywords(lsa.articles_dir + filename)
+            outfile.write(keywords)
 
 if __name__ == "__main__":
     main()
-    

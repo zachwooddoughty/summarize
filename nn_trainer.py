@@ -92,7 +92,7 @@ class SummaryFilter:
 
         if dataset:
             trainer = BackpropTrainer(nn, dataset)
-            trainer.train()
+            trainer.trainEpochs(epochs=1000)
 
         with open(self.nn_file, "wb") as f:
             cPickle.dump(nn, f)
